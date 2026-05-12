@@ -4,3 +4,6 @@
 - Menguasai HTML, CSS, dan Python
 - Membuat project website dan aplikasi sederhana
 
+## Fokus Pembelajaran
+- Web Development
+- Database
