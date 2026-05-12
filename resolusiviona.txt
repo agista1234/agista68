@@ -2,8 +2,8 @@
 
 ## Target Ke Depan
 - Menguasai HTML, CSS, dan Python
-- Membuat project website dan aplikasi sederhana
+- memahami coding
 
 ## Fokus Pembelajaran
 - Web Development
-
+- Software Development
